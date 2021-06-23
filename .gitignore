@@ -3,3 +3,6 @@ config.py
 
 #ignore compiled python
 *.pyc
+
+#ignore uploads content
+uploads/*
